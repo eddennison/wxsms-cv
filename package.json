@@ -1,0 +1,21 @@
+{
+  "name": "wxsms-cv",
+  "version": "1.0.0",
+  "description": "wxsm's personal resume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxsms/wxsms-cv.git"
+  },
+  "author": "wxsm",
+  "bugs": {
+    "url": "https://github.com/wxsms/wxsms-cv/issues"
+  },
+  "homepage": "https://github.com/wxsms/wxsms-cv#readme",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}
